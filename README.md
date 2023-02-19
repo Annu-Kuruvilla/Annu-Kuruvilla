@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I am a Computer Science Undergraduate at Govenment Model Engineering College, Thrikkakara.
+I am intrested in Web development and UI designing
 <!--
 **Annu-Kuruvilla/Annu-Kuruvilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
